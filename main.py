@@ -21,7 +21,7 @@ LABELS = [
     "Forwarder/Consolidator:",
     "Terms of sale:",
     "Ship via:",
-    "Container Stuffing Location:",
+    "Container Stuffing Location:", BAO NGU :V
 ]
 
 LABEL_COL = 1        # cot A (nhan)
